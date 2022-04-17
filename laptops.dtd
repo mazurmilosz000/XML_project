@@ -1,0 +1,11 @@
+<!ELEMENT laptops (laptop+)>
+<!ELEMENT laptop (name, color, procesor, price+, photo)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+<!ELEMENT procesor (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT photo (#PCDATA)>
+
+<!ATTLIST laptop category (pro | mid | business) "pro">
+<!ATTLIST name lang CDATA "en">
+<!ATTLIST price type (pln | usd | euro) "pln">

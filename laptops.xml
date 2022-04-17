@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="laptops.xsl"?>
+<?xml-model href="laptops.dtd"?>
+
+
+<laptops>
+    <laptop category="pro">
+        <name lang="en">Apple MacBook Air</name>
+        <color>Space Gray</color>
+        <procesor>M1</procesor>
+        <price type ="pln">5700</price>
+        <price type ="usd">1415</price>
+        <price type ="euro">1250</price>
+        <photo>https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2020/11/pr_2020_11_10_21_37_1_812_01.jpg</photo>
+    </laptop>
+    <laptop category="business">
+        <name lang="en">HP Pavilion 15</name>
+        <color>Silver</color>
+        <procesor>i5-1135G7</procesor>
+        <price type ="pln">3200</price>
+        <price type ="usd">795</price>
+        <price type ="euro">700</price>
+        <photo>https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/11/pr_2021_11_14_14_44_20_727_00.jpg</photo>
+    </laptop>
+    <laptop category="mid">
+        <name lang="en">Dell Inspiron 5505</name>
+        <color>Silver</color>
+        <procesor>Ryzen 5 4500U</procesor>
+        <price type ="pln">3300</price>
+        <price type ="usd">820</price>
+        <price type ="euro">725</price>
+        <photo>https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2020/6/pr_2020_6_24_14_7_53_439_05.jpg</photo>
+    </laptop>
+    <laptop category="pro">
+        <name lang="en">Acer Nitro 5</name>
+        <color>Black</color>
+        <procesor>i5-11400H</procesor>
+        <price type ="pln">4600</price>
+        <price type ="usd">1145</price>
+        <price type ="euro">1010</price>
+        <photo>https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/9/pr_2021_9_27_10_0_23_882_00.jpg</photo>
+    </laptop>
+    <laptop category="business">
+        <name lang="en">HP 15s</name>
+        <color>Black</color>
+        <procesor>Ryzen 5-5500</procesor>
+        <price type ="pln">2850</price>
+        <price type ="usd">710</price>
+        <price type ="euro">625</price>
+        <photo>https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/8/pr_2021_8_11_7_12_15_936_00.jpg</photo>
+    </laptop>
+    <laptop category="pro">
+        <name lang="en">ASUS ROG Strix G15</name>
+        <color>Black</color>
+        <procesor>R7-4800H</procesor>
+        <price type ="pln">4800</price>
+        <price type ="usd">1195</price>
+        <price type ="euro">1055</price>
+        <photo>https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/5/pr_2021_5_5_15_59_22_57_00.jpg</photo>
+    </laptop>
+    <laptop category="mid">
+        <name lang="en">Huawei MateBook 13</name>
+        <color>Silver</color>
+        <procesor>R7-3700U</procesor>
+        <price type ="pln">3000</price>
+        <price type ="usd">745</price>
+        <price type ="euro">660</price>
+        <photo>https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/6/pr_2021_6_15_8_25_50_252_05.jpg</photo>
+    </laptop>
+    <laptop category="pro">
+        <name lang="en">Lenovo Legion 5</name>
+        <color>Black</color>
+        <procesor>Ryzen 7</procesor>
+        <price type ="pln">6900</price>
+        <price type ="usd">1715</price>
+        <price type ="euro">1515</price>
+        <photo>https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/4/pr_2021_4_14_16_47_42_823_00.jpg</photo>
+    </laptop>
+    <laptop category="pro">
+        <name lang="en">Apple MacBook Pro</name>
+        <color>Space Gray</color>
+        <procesor>M1</procesor>
+        <price type ="pln">7600</price>
+        <price type ="usd">1890</price>
+        <price type ="euro">1670</price>
+        <photo>https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2020/11/pr_2020_11_10_21_42_34_359_01.jpg</photo>
+    </laptop>
+    <laptop category="business">
+        <name lang="en">Lenovo ThinkBook 15</name>
+        <color>Silver</color>
+        <procesor>i5-1135G7</procesor>
+        <price type ="pln">4000</price>
+        <price type ="usd">995</price>
+        <price type ="euro">880</price>
+        <photo>https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/10/pr_2021_10_26_17_34_34_784_00.jpg</photo>
+    </laptop>
+</laptops>
